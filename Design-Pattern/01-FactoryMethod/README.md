@@ -1,4 +1,5 @@
-# Design Patterns > Creational Patterns > Factory Method
+# Factory Method Pattern
+***Design Patterns > Creational Patterns > Factory Method Pattern***
 => "Factory Method" mục đích là tạo và sử dụng các objects khác nhau, cùng kiểu (cùng interface) nhưng có các methods khác nhau (các action, properties khác nhau)
 
 - Creator > Concrete Creators

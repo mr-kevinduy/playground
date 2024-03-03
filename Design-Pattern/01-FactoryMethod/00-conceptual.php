@@ -1,5 +1,8 @@
 <?php
-// namespace KevinDuy\DesignPattern;
+
+/**
+ * Conceptual Example
+ */
 
 interface Product
 {
